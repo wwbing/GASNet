@@ -1,0 +1,9 @@
+train: E:\dataset\yolo_format\BaiJiu-yolo\flod1\images\train
+val: E:\dataset\yolo_format\BaiJiu-yolo\flod1\images\val
+test: E:\dataset\yolo_format\BaiJiu-yolo\flod1\images\val
+
+is_coco: False
+
+nc: 11
+
+names: ['瓶盖破损', '喷码正常', '瓶盖断点', '瓶盖坏边', '瓶盖打旋', '背景','瓶盖变形','标贴气泡','标贴歪斜','喷码异常','标贴起皱']

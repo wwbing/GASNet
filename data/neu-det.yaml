@@ -1,0 +1,9 @@
+train: D:\experiment\dataset\yolo_format\NEU-yolo\flod1\images\train
+val: D:\experiment\dataset\yolo_format\NEU-yolo\flod1\images\val
+test: D:\experiment\dataset\yolo_format\NEU-yolo\flod1\images\val
+
+is_coco: False
+
+nc: 6
+
+names: ['crazing', 'inclusion', 'pitted_surface', 'rolled-in_scale', 'scratches', 'patches']

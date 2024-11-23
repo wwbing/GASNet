@@ -1,0 +1,9 @@
+train: E:\dataset\yolo_format\FDD-yolo\flod1\images\train
+val: E:\dataset\yolo_format\FDD-yolo\flod1\images\val
+test: E:\dataset\yolo_format\FDD-yolo\flod1\images\val
+
+is_coco: False
+
+nc: 20
+
+names: ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20']

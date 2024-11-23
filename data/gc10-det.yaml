@@ -1,0 +1,9 @@
+train: E:\dataset\yolo_format\GC10-DET-yolo\flod1\images\train
+val: E:\dataset\yolo_format\GC10-DET-yolo\flod1\images\val
+test: E:\dataset\yolo_format\GC10-DET-yolo\flod1\images\val
+
+is_coco: False
+
+nc: 10
+
+names: ['1_chongkong', '2_hanfeng', '3_yueyawan', '4_shuiban', '5_youban', '6_siban', '7_yiwu', '8_yahen', '9_zhehen', '10_yaozhe']

@@ -1,0 +1,9 @@
+train: E:\dataset\yolo_format\TILDA-yolo\flod1\images\train
+val: E:\dataset\yolo_format\TILDA-yolo\flod1\images\val
+test: E:\dataset\yolo_format\TILDA-yolo\flod1\images\val
+
+is_coco: False
+
+nc: 5
+
+names: ['textile-defects', 'hole', 'objects', 'oil spot', 'thread error']

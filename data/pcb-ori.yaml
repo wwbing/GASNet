@@ -1,0 +1,9 @@
+train: D:\experiment\dataset\yolo_format\PCB_DATASET_YOLO\images\train2017
+val: D:\experiment\dataset\yolo_format\PCB_DATASET_YOLO\images\val2017
+test: D:\experiment\dataset\yolo_format\PCB_DATASET_YOLO\images\val2017
+
+is_coco: False
+
+nc: 6
+
+names: ['missing_hole', 'mouse_bite', 'open_circuit', 'short', 'spur', 'spurious_copper']

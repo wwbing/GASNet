@@ -1,0 +1,9 @@
+train: D:\experiment\dataset\yolo_format\PCBV4-yolo\flod1\images\train
+val: D:\experiment\dataset\yolo_format\PCBV4-yolo\flod1\images\val
+test: D:\experiment\dataset\yolo_format\PCBV4-yolo\flod1\images\val
+
+is_coco: False
+
+nc: 7
+
+names: ['PCB', 'missing_hole', 'mouse_bite', 'open_circuit', 'short', 'spur', 'spurious_copper']
